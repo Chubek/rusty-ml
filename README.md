@@ -8,3 +8,8 @@ This repo, and its companion Github pages, is dedicated to everything related to
 2- Machine Learning with Rust might not be as glamorous as it is with Python, but it has a bright future.
 
 And these are the only two reasons I need to spend my precious free time munching on trailmix, watching detective shows and doing ML with Rust. How about you?
+
+
+#Codes
+
+All the codes are in the "codes" folder. I know it's not an intuitive use of Github, git clone this entire repo and delete the blog parts.
