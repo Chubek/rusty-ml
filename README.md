@@ -12,4 +12,4 @@ And these are the only two reasons I need to spend my precious free time munchin
 
 #Codes
 
-Every snippet of code is in the "Codes" branch. So the master branch is empty. The blog is housed on the "blog" branch.
+Every snippet of code is in the "Codes" branch. So the master branch is empty. The blog is housed in the "blog" branch.
