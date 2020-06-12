@@ -12,4 +12,4 @@ And these are the only two reasons I need to spend my precious free time munchin
 
 #Codes
 
-All the codes are in the "codes" folder. I know it's not an intuitive use of Github, git clone this entire repo and delete the blog parts.
+Every snippet of code is in the "Codes" branch. So the master branch is empty. The blog is housed on the "blog" branch.
